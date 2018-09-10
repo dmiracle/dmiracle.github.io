@@ -7,7 +7,7 @@ Make a portfolio site using tailwind css and some other stuff. The basic idea is
 - Create simple html sample
 - Add the bootstrap cdn
 - Nav
-- Badges
+- ~~Badges~~ Cards
 - About me
 
 ## Steps
@@ -19,3 +19,8 @@ Make a portfolio site using tailwind css and some other stuff. The basic idea is
     cp -r bootstrap/site/docs/4.1/examples/album dmiracle.github.io/
     ```
 2. Add CDN to index
+
+3. Added holder.js
+4. Used Album template
+5. Modify Cards for each project
+6. Add icons for project links
