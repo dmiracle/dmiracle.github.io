@@ -4,7 +4,7 @@ hasCJKLanguage = true
 languageCode = "en"
 paginate = 5
 theme = "hugo-theme-texify"
-title = "TeXify"
+title = "Dylan Miracle"
 
 disqusShortname = ""
 googleAnalytics = ""
