@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dylan Miracle</title>
+    <link>https://dmiracle.github.io/</link>
+    <description>Recent content on Dylan Miracle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Nov 2021 06:58:27 -0600</lastBuildDate><atom:link href="https://dmiracle.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Subway Mind Maps</title>
+      <link>https://dmiracle.github.io/posts/subway-mind-maps/</link>
+      <pubDate>Wed, 10 Nov 2021 06:58:27 -0600</pubDate>
+      
+      <guid>https://dmiracle.github.io/posts/subway-mind-maps/</guid>
+      <description>Subway maps Inspiration Lex Fridman interview with François Chollet
+subway maps as mind maps
+ 2 dimensional representation of ideas, mapping ideas onto a 2 dimensional space thinking are topological relations not geometric, meaning that we are only concerned with the connections and not the distances  Transit maps Got this book
+https://www.penguinrandomhouse.com/books/318909/transit-maps-of-the-world-by-mark-ovenden/
+Played this game
+https://dinopoloclub.com/games/mini-metro/
+Drawing your own maps This webpage lets you draw your own https://metromapmaker.com/
+Here is a d3 library</description>
+    </item>
+    
+  </channel>
+</rss>
